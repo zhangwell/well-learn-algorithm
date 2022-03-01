@@ -3,6 +3,13 @@ package sort;
 import java.util.Arrays;
 import java.util.Random;
 
+/**
+ * @author zhangwei02
+ * @version 1.0.0
+ * @ClassName QuickSort.java
+ * @Description TODO
+ * @createTime 2022年03月01日 09:05:00
+ */
 public class Bubble {
 
     /**
